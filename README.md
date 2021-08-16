@@ -10,6 +10,8 @@
 
 This package makes it easy to send notifications using Apple Push (APN) with Laravel.
 
+This is MY OWN BREW of this package.. if you use it, i give no warranty of any kind, and you accept that using this is your own risk. cool, glad you understand.
+
 ## Contents
 
 - [Installation](#installation)
@@ -26,7 +28,7 @@ This package makes it easy to send notifications using Apple Push (APN) with Lar
 
 Install this package with Composer:
 
-    composer require laravel-notification-channels/apn
+    composer require  p4u1d34n/apn 
 
 ### Setting up the APN service
 
