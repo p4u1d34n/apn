@@ -1,7 +1,7 @@
 {
-    "name": "laravel-notification-channels/apn",
+    "name": "p4u1d34n/apn",
     "description": "Apple APN Push Notification Channel",
-    "homepage": "https://github.com/laravel-notification-channels/apn",
+    "homepage": "https://github.com/p4u1d34n/apn",
     "license": "MIT",
     "authors": [
         {
